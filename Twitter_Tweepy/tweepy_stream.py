@@ -2,10 +2,10 @@
 
 import tweepy
 
-CK = 'CmSPnXcyDwQPB0x2QrHVA'                             # Consumer Key
-CS = 'tfEIhvelfw2b15j559jpJ9VHkPu9EK8ch483PfKoa1k'         # Consumer Secret
-AT = '185165069-CKBQrdTWN2wj77H04xzD6upl9wOSJMcoy28b0x6a' # Access Token
-AS = 'eyVPQ7ahtREEU34JVOfqxI8zi1P7mLJJs4K2Nd36v8H8n'         # Accesss Token Secert
+CK = ''# Consumer Key
+CS = ''# Consumer Secret
+AT = ''# Access Token
+AS = ''# Accesss Token Secert
 
 # ツイート投稿用のURL
 URL_BASE = "https://api.twitter.com/1.1/"
